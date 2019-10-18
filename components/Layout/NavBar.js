@@ -2,7 +2,6 @@ import React from "react";
 import Link from "next/link";
 import logo from "./assets/tedxSmall.png";
 const NavBar = () => {
-  const sampleYear = 2019;
   return (
     <nav>
       <img alt="sorry no image yet" src={logo} />
@@ -17,14 +16,15 @@ const NavBar = () => {
             <a> Sponsors </a>
           </Link>
         </li>
+
         <li>
-          <Link href="/">
-            <a> Equipo </a>
+          <Link href="/talks/[year]" as="/talks/2019">
+            <a> 2019 </a>
           </Link>
         </li>
         <li>
-          <Link href="/talks/[year]" as={`/talks/${sampleYear}`}>
-            <a> Ediciones anteriores </a>
+          <Link href="/talks/[year]" as="/talks/2018">
+            <a> 2018 </a>
           </Link>
         </li>
       </ul>
