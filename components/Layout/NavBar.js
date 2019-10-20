@@ -4,7 +4,9 @@ import logo from "./assets/tedxSmall.png";
 const NavBar = () => {
   return (
     <nav>
-      <img alt="sorry no image yet" src={logo} />
+      <Link href="/">
+        <img alt="Tedx san Jose de mayo" src={logo} />
+      </Link>
       <ul>
         <li>
           <Link href="/">

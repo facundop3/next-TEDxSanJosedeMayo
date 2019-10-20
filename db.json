@@ -2,6 +2,7 @@
   "speakers": [
     {
       "id": 2018,
+      "summaryUrl": "https://www.youtube.com/embed/slJFi86Rr4I",
       "data": [
         {
           "name": "Carmen Corrales",
@@ -107,6 +108,122 @@
               "icon": "fab fa-instagram"
             },
             { "url": "https://matiaslove.com/", "icon": "fas fa-globe" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2019,
+      "data": [
+        {
+          "name": "Pilar Teijeiro Bové",
+          "id": 1,
+          "videoUrl": "https://www.youtube.com/embed/gWiE2rzrgJs",
+          "talk-title": "Mujeres en los medios, desigualdades invisibles",
+          "summary": "Ella es periodista y comunicadora, está convencida de lo importante que es la imagen que trasmiten los medios de comunicación en la opinión pública. Periodista, Licenciada en Ciencias de la Comunicación. Integra el equipo de prensa del canal público de Montevideo tevé Ciudad, además de ser conductora del noticiero Informe Capital. Fue conductora y productora periodística de los programas televisivos Mirada Global, Clave Mundial y Tiempo Activo. Es co-redactora del primer Código de Ética Periodística de la Asociación de la Prensa Uruguaya. Integra el consejo directivo del Centro de Archivos y Acceso a la Información Pública (CAinfo) y participa de la Comisión de género de la Asociación de la Prensa Uruguaya (APU). En el 2011 impulsó la Primera Encuesta Nacional de Trabajadores y Trabajadoras de los Medios de Comunicación con Perspectiva de Género",
+          "social": [
+            { "url": "", "icon": "fab fa-facebook" },
+            { "url": "", "icon": "fab fa-twitter" },
+            { "url": "", "icon": "fab fa-linkedin-in" },
+            { "url": "", "icon": "fab fa-github" },
+            { "url": "", "icon": "fab fa-instagram" },
+            { "url": "", "icon": "fas fa-globe-americas" }
+          ]
+        },
+        {
+          "name": "María Mercedes Aldaz",
+          "id": 2,
+          "videoUrl": "https://www.youtube.com/embed/nEdblc95rEU",
+          "talk-title": "Crear en tu comunidad",
+          "summary": "Todos hemos pretendido guardar los buenos momentos en una fotografía, para transformarlos en lindos recuerdos, pero no todos tenemos tanta pasión por la fotografía. Licenciada en Administración. Ingresa en la facultad de Bellas Artes en 1994 e inicia sus estudios en fotografía en el año 2000. Expone individual y colectivamente en San José, Montevideo y Buenos Aires. Realiza  proyectos Educativos y de investigación en la Fotografía,  muchos de ellos con premios para la cultura (FRC). Su maqueta de fotolibro \"Rastros&Rostros\", es finalista en el 2016 en la Feria de Libros de autor de Argentina  y en el encuentro de Fotolibros del Centro de Fotografía de Montevideo. En el 2017 culmina el curso de Fotografía Antropológica impartido por la Fotógrafa y Antropóloga Camila Álvarez. Actualmente se focaliza en fotografía Documental, tomando como punto de partida para sus fotorreportajes, historias simples y cotidianas en el medio rural. Colabora y administra las cuentas de Instagram Everydaylatinoamerica y Everydaysanjoseuy. Es creadora y organizadora del Festival Internacional de Fotografía San José Foto, el cual tuvo lugar en abril de 2014, 2016, y 2018.",
+          "social": [
+            { "url": "", "icon": "fab fa-facebook" },
+            { "url": "", "icon": "fab fa-twitter" },
+            { "url": "", "icon": "fab fa-linkedin-in" },
+            { "url": "", "icon": "fab fa-github" },
+            { "url": "", "icon": "fab fa-instagram" },
+            { "url": "", "icon": "fas fa-globe-americas" }
+          ]
+        },
+        {
+          "name": "Rafael Martínez Crosa",
+          "id": 3,
+          "videoUrl": "https://www.youtube.com/embed/aqh27jtf4fU",
+          "talk-title": "BAILEMOS",
+          "summary": "La danza es un arte que nos conecta con nuestro cuerpo, nuestra mente y las demás personas, el siguiente orador es un convencido de que todas las personas pueden bailar y experimentar la felicidad que brinda la danza. Artista de la danza. En 2002 egresa de la Escuela Nacional de danza, división Ballet. bailó en el Ballet Nacional del SODRE. Ha dedicado gran parte de su profesión a la cultura popular, desde 1999 participa como bailarín en comparsas y desde el 2007 como coreógrafo. Desde el 2009 es profesor de danza en educación pública y privada. A partir de 2014 es Director responsable y artístico, coreógrafo y bailarín de comparsa LA EXPLANADA.. En 2015 y 2018 obtuvo los Fondos Concursables para la Cultura-MEC. Gestiona talleres, actividades de visibilidad y promoción del candombe. Participa activamente en la construcción del PLAN NACIONAL DE DANZA. Dedica su arte a unir a la comunidad desde la danza. Ha coordinado y creado más de 10 FLASHMOB para intervenir espacios públicos. Actualmente imparte un taller llamado DANZA SALUDABLE fomentando el placer por el baile, a través del juego corporal. Es un convencido que todas las personas pueden bailar y experimentar la felicidad que brinda la danza.",
+          "social": [
+            { "url": "", "icon": "fab fa-facebook" },
+            { "url": "", "icon": "fab fa-twitter" },
+            { "url": "", "icon": "fab fa-linkedin-in" },
+            { "url": "", "icon": "fab fa-github" },
+            { "url": "", "icon": "fab fa-instagram" },
+            { "url": "", "icon": "fas fa-globe-americas" }
+          ]
+        },
+        {
+          "name": "Agueda Preza Fabra",
+          "id": 4,
+          "image": "",
+          "videoUrl": "https://www.youtube.com/embed/-Y0K7qAoUao",
+          "talk-title": "Marketing a la solidaridad",
+          "summary": "Oriunda de Montevideo se mudó a Ciudad del Plata hace 7 años. Curiosa por naturaleza y preocupada por la situación de su ciudad, decide ponerse manos a la obra, con un proyecto muy solidario. Oriunda de Montevideo se mudó a San José hace 7 años. Confeccionista, Cursó primaria en Colegio Santa Clara y Secundaria en Colegio El Carmen del Prado. Comenzando su vida laboral a los 16 años, se fue abriendo camino primero como secretaria, y luego como encargada en diferentes empresas del sector comercial. Curiosa por naturaleza, realizó varios cursos en academias Pitman, como dactilografía e inglés. Ya en su vida adulta estudió producción en línea, marketing, confección y utilización de maquinaria industrial (Inefop y Medeltop), participó de emprendimientos productivos (MIDES) y realización de proyectos (GDSJ, Proyecto redes) entre otros. Fundó en 2015 \"Merendero Nissi\", proyecto ya formalizado como \"Asociación Comunitaria del Plata\", brindando cursos de costura, reciclaje, plástica, entre otras actividades, a una población de contexto crítico en Autódromo, Ciudad del Plata. Su manejo de las herramientas informáticas, la ha llevado a trabajar también como community manager.",
+          "social": [
+            { "url": "", "icon": "fab fa-facebook" },
+            { "url": "", "icon": "fab fa-twitter" },
+            { "url": "", "icon": "fab fa-linkedin-in" },
+            { "url": "", "icon": "fab fa-github" },
+            { "url": "", "icon": "fab fa-instagram" },
+            { "url": "", "icon": "fas fa-globe-americas" }
+          ]
+        },
+        {
+          "name": "Manuel Larrea Llorca",
+          "id": 5,
+          "image": "",
+          "videoUrl": "https://www.youtube.com/embed/en9vlSKVDPM",
+          "talk-title": "Ajedrez, Política y Sociedad",
+          "summary": "En su partida, este orador nos llevará desde el tablero del ajedrez al tablero de la vida. Abogado, egresado de la Universidad de la República en 2004 y Edil del Departamento de San José. Desde niño, siguiendo la tradición familiar se comprometió con la práctica y el estudio del Ajedrez. En esta milenaria ciencia, arte o deporte integró la selección olímpica Nacional en siete oportunidades entre 2002 y 2016. Ganador en 2006 de la medalla de oro en los Juegos Olímpicos de Torino, Italia. Campeón Nacional en 3 oportunidades. De las miles de horas de entrenamiento y competencia, el principal éxito fue la adquisición de una herramienta para entender la realidad basada en la empatía con el otro y aceptar los errores propios y ajenos como parte del juego de la vida.",
+          "social": [
+            { "url": "", "icon": "fab fa-facebook" },
+            { "url": "", "icon": "fab fa-twitter" },
+            { "url": "", "icon": "fab fa-linkedin-in" },
+            { "url": "", "icon": "fab fa-github" },
+            { "url": "", "icon": "fab fa-instagram" },
+            { "url": "", "icon": "fas fa-globe-americas" }
+          ]
+        },
+        {
+          "name": "Sebastián Gutierrez Michelena",
+          "id": 6,
+          "image": "",
+          "videoUrl": "https://www.youtube.com/embed/_lmPfTgZw7c?list=PLsRNoUx8w3rPNqp-FrkVcEsj3InH3aRoO",
+          "talk-title": "Cómo superar el miedo a emprender",
+          "summary": "A veces nos sentimos inseguros, no sabemos que decisiones tomar, sobre todo a la hora de emprender, el siguiente orador ha estado varias veces en esa situación, pero ha podido superar esas barreras. Contador Público, tiene un Postgrado en Finanzas Corporativas y una Maestría en Administrador de Empresas (MBA) en el IE Business School de Madrid. Ha sido profesor universitario durante 7 años y es actualmente docente y co-fundador de la Incubadora de Negocios del Politécnico San José. Es además programador de sistemas y actualmente está dedicado a la actividad comercial con un emprendimiento propio.",
+          "social": [
+            { "url": "", "icon": "fab fa-facebook" },
+            { "url": "", "icon": "fab fa-twitter" },
+            { "url": "", "icon": "fab fa-linkedin-in" },
+            { "url": "", "icon": "fab fa-github" },
+            { "url": "", "icon": "fab fa-youtube" },
+            { "url": "", "icon": "fab fa-instagram" },
+            { "url": "", "icon": "fas fa-globe" }
+          ]
+        },
+        {
+          "name": "Mauro Zunino Indira Manzano",
+          "id": 7,
+          "image": "",
+          "videoUrl": "https://www.youtube.com/embed/vSRQPUC3Euc?list=PLsRNoUx8w3rPNqp-FrkVcEsj3InH3aRoO",
+          "talk-title": "Una historia de amor para la educación ambiental",
+          "summary": "Viajeros de corazón, han encontrado la mezcla perfecta entre arquitectura y ciencias ambiéntales, vienen a plantearnos su visión sobre un tema que debe involucrarnos a todos. Indira es Arquitecta, Bioconstructora y Educadora por el arte (Taller Barradas). En 2004, estudió en L'École Nationale Supérieure d'architecture de Grenoble, Francia. En 2009, cursó una maestría en Arquitectura con orientación en Economía, Política y Medioambiente, en la Universidad Nacional Autónoma de México.\n Mauro es Licenciado en Ciencias Ambientales. En 2008, fue Coordinador y encargado del área de Educación Ambiental del Proyecto “Chaska Wasy-Manu”, Selva del Manu, Perú. 2013, Miembro Coordinador del “Corredor Cultural Expiatorio” en Guadalajara, México. Durante toda su trayectoria ha sido docente, educador y tallerista en temáticas Socioambientales, en diferentes Centros Educativos del Uruguay, Perú y México. \n Ambos: Actualmente Coordinadores y encargados del Centro de Educación Socioambiental “Parque Rodó”, en San José de Mayo.",
+          "social": [
+            { "url": "", "icon": "fab fa-facebook" },
+            { "url": "", "icon": "fab fa-twitter" },
+            { "url": "", "icon": "fab fa-linkedin-in" },
+            { "url": "", "icon": "fab fa-github" },
+            { "url": "", "icon": "fab fa-youtube" },
+            { "url": "", "icon": "fab fa-instagram" },
+            { "url": "", "icon": "fas fa-globe" }
           ]
         }
       ]
