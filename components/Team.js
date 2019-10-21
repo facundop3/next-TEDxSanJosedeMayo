@@ -1,16 +1,20 @@
 import React from "react";
 import Card from "./Card/Card";
+import BlobCard from "./Card/BlobCard";
 const Team = () => {
   const members = ["Diego Barboza", "Héctor Cotelo", "Facundo Petre"];
 
   return (
     <div>
-      <h1>Nuestro Equipo: </h1>
-      <div>
-        {members.map(memberName => (
-          <Card key={memberName}>{memberName}</Card>
-        ))}
-      </div>
+      <BlobCard text="Nuestro Equipo: " left={25} bottom={50}>
+        <div>
+          {members.map(memberName => (
+            <Card key={memberName} shadow>
+              {memberName}
+            </Card>
+          ))}
+        </div>
+      </BlobCard>
 
       <style jsx>{`
         div div {

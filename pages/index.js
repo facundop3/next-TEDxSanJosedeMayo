@@ -1,9 +1,8 @@
 import React from "react";
-import Head from "next/head";
 import Layout from "../components/Layout";
 import Card from "../components/Card/Card";
 import Team from "../components/Team";
-
+import Sponsors from "../components/Sponsors/Sponsors";
 const Home = () => (
   <div>
     <Layout>
@@ -32,6 +31,7 @@ const Home = () => (
           </a>
         </div>
       </div>
+      <Sponsors />
       <Team />
     </Layout>
     <style jsx>{`
